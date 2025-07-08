@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=jalenchen0&color=green)
 ## Hi there 👋
 
 - 🔭 I’m currently working on `Taskforce Bot`
@@ -9,9 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jalenchen0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=5577&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=jalenchen0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
