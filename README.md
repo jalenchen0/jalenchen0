@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=jalenchen0&color=green)
 ## Hi there 👋
 
 - 🔭 I’m currently working on `Taskforce Bot`
